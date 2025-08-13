@@ -7,6 +7,7 @@
     --text-light: #ffffff;
     --text-medium: #ccc;
     --text-dark: #888;
+    background-image: url('./images/image5.jpg');
 }
 
 * {
